@@ -7,3 +7,6 @@
 
 def  greeting():
     print("hello there")
+
+def note():
+    print("we are to be deleted")
